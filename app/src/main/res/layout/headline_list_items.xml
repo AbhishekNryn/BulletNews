@@ -27,7 +27,7 @@
                 android:id="@+id/text_title"
                 android:textSize="22sp"
                 android:textColor="@color/black"
-                android:textStyle="bold"
+                android:textStyle="italic"
                 android:maxLines="3">
 
             </TextView>
@@ -39,7 +39,7 @@
                 android:textSize="18sp"
                 android:textColor="@color/purple_200"
                 android:layout_marginTop="6dp"
-                android:textStyle="bold"
+                android:textStyle="italic"
                 android:maxLines="1">
 
             </TextView>
